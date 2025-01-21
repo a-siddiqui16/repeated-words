@@ -25,4 +25,4 @@ string = input("Enter a string: ").lower()
 
 find_repeated(string)
 
-print(repeat)
+
